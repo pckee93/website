@@ -1,0 +1,24 @@
+{
+  "name": "pohchoowebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pckee93/website.git"
+  },
+  "author": "Jason Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pckee93/website/issues"
+  },
+  "homepage": "https://github.com/pckee93/website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
